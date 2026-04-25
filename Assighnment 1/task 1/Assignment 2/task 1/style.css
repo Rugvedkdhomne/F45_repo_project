@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main-cont{
+    width: 100%;
+    height: 100%;
+    background-image: url(/Assets/images/i5.jpg);
+    
+}
+.box{
+    height:20%;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid black;
+}
