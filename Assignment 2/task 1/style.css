@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     
+}
+
+.main-cont{
+    padding: 20px;
+}
+.containar{
+    background-image: url(/Assets/images/img_fjords.jpg);
+    background-size: cover;
+  
+}
+
+.box-1{
+    text-align: right;
+    margin: 5px;
+    padding: 20px;
+    background-color: chartreuse;
+}
+.box-2{
+    text-align: left;
+    margin: 5px;
+    padding: 20px;
+    background-color: chocolate;
+}
