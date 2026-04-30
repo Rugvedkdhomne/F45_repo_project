@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: palevioletred;
+}
+.main-cont{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/Assets/images/brianna-parks--bKIw_lc2xo-unsplash.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 20px;
+    text-align: center;
+}
+.box{
+    border: 2px solid black;
+    box-sizing: content-box;
+    border-radius: 20px;
+}
